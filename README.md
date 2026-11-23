@@ -40,7 +40,7 @@ Anyone running the scripts on a machine with fewer than 8 CPUs gets different nu
 
 ## Contributions to the original repository
 
-- [Pull request #2](https://github.com/geektoni/mitigating-harm-recsys/pull/2): fixes the install instructions and documents how to generate the splits (notes 1, 2 and 5).
+- [Pull request #2](https://github.com/geektoni/mitigating-harm-recsys/pull/2), merged by the first author: fixes the install instructions and documents how to generate the splits (notes 1, 2 and 5).
 - In progress: a per-user random generator, so that `hybrid` no longer depends on `--cores`.
 
 ## Notebooks
